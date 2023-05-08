@@ -4,6 +4,12 @@
 
 ## Created a simple snake game using HTML, CSS, and JavaScript as per based on below instructions!
 ---
+
+
+https://user-images.githubusercontent.com/118621709/236879045-108a88dc-5742-4634-8ab9-7046090b8674.mp4
+
+
+---
 ### Instructions:
 - Create a new **HTML** file with a canvas element that will be used to display the game. You should also create a <div> element that will display the player's score.
 - Write a **JavaScript** function that initializes the game by creating the snake and setting its initial position and direction. You should also create a food object that appears randomly on the canvas.
