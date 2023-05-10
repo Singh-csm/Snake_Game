@@ -4,7 +4,7 @@
 
 ## Created a simple snake game using HTML, CSS, and JavaScript as per based on below instructions!
 ---
-## [Demo Link](https://sweet-nougat-013c67.netlify.app/) 🔗
+## [Demo Link](https://dreamy-sfogliatella-207945.netlify.app/) 🔗
 ---
 
 https://user-images.githubusercontent.com/118621709/236879045-108a88dc-5742-4634-8ab9-7046090b8674.mp4
